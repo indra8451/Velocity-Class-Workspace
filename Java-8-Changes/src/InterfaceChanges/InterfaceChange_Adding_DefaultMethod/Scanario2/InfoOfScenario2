@@ -1,0 +1,5 @@
+#Scenario-2
+If you have two interfaces contain same default method and try to override two 
+default method then will get compile time error as Duplicate method name.
+
+But  Scenario-4 I also implemented here that tells we solved the issue of Scenario-2

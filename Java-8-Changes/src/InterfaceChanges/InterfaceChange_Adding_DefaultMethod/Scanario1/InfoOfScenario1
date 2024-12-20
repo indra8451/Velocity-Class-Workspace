@@ -1,0 +1,4 @@
+#Scenario-1-
+
+If you have two interfaces contain same default method then we can override only 
+one method.

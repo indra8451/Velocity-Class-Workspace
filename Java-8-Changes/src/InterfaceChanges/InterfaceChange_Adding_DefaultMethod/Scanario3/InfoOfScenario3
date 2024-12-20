@@ -1,0 +1,3 @@
+#Scenario-3
+If you have two interfaces contain different default method then we can override 
+two methods in one implementation class
